@@ -1,8 +1,10 @@
 <?php
 /*
  * PHP Port of node-uuid by Robert Kieffer.
+ *  Copyright (c) 2010-2012 Robert Kieffer
+ *  MIT License - http://opensource.org/licenses/mit-license.php
  *
- * Copyright (c) 2015 Chris Houlden.
+ * PHP Port Copyright (c) 2015-2016 Chris Houlden.
  */
 
 namespace UUIDgen;
